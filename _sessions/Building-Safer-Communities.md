@@ -1,6 +1,6 @@
 ---
 layout: default
-category: talk
+category: workshop
 id: Building-Safer-Communities
 title: Building Safer Communities
 presenters:
